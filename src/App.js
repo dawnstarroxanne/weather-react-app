@@ -19,7 +19,7 @@ export default function App() {
       <footer>
         Coded by
         <a
-          href="https://github.com/dawnstarroxanne/weather-react"
+          href="https://github.com/dawnstarroxanne/weather-react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
