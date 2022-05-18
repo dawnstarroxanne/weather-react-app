@@ -1,18 +1,8 @@
 .App {
-  font-family: sans-serif;
+  max-width: 600px;
+  margin: 30px auto;
 }
-
-h1 {
-  color: #0e1117;
-  font-size: 48px;
-  font-weight: 200;
-  line-height: 28px;
-  margin-bottom: 0;
-}
-.City {
-  margin-bottom: 10px;
-}
-.Date {
-  font-size: 16px;
-  opacity: 0.5;
+.App footer {
+  font-size: 12px;
+  margin: 30px 0;
 }
