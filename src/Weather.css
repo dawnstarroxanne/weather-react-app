@@ -6,7 +6,7 @@
 .Weather h1 {
   color: #0e1117;
   font-size: 48px;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 28px;
   margin: 20px 0 0 0;
 }
@@ -27,4 +27,17 @@
 }
 li::first-letter {
   text-transform: capitalize;
+}
+.Weather .temperature {
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 64px;
+  font-weight: 400;
+}
+.Weather canvas {
+  height: 64px;
+  width: 64px;
+  margin-right: 10px;
+  margin-top: 5px;
+  display: inline-block;
 }
