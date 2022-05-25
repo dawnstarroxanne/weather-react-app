@@ -2,11 +2,19 @@
   border: 1px solid #202124;
   font-family: sans-serif;
   padding: 20px;
+  background: #f6f6f6;
+}
+.Weather .form-control {
+  border-color: #cde5d0;
+}
+.btn-primary {
+  background-color: #6d9886;
+  border-color: #f6f6f6;
 }
 .Weather h1 {
   color: #0e1117;
   font-size: 42px;
-  font-weight: 300;
+  font-weight: 400;
   margin: 20px 0 0 0;
 }
 
@@ -35,10 +43,10 @@
   margin: 10px auto;
 }
 
-.Weather .units {
+.Weather .unit {
   font-size: 16px;
   font-weight: 400;
   position: relative;
   line-height: 1;
-  top: -34px;
+  top: -30px;
 }
